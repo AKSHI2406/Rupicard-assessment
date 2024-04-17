@@ -1,0 +1,42 @@
+html,body{
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  overflow-x: hidden;
+}
+@font-face {
+  font-family: "AkshitaSans";
+  src: url("../../public/assets/Matter-Bold.woff2");
+  font-weight: 600;
+}
+@font-face {
+  font-family: "AkshitaSans";
+  src: url("../../public/assets/Matter-Medium.woff2");
+  font-weight: 500;
+}
+@font-face {
+  font-family: "AkshitaSans";
+  src: url("../../public/assets/Matter-Regular.woff2");
+  font-weight: 400;
+}
+h1{
+  font-size: 54px;
+  margin: 0;
+}
+h2{
+  font-size: 40px;
+  margin: 0;
+}
+h3{
+  font-size: 24px;
+  margin: 0;
+}
+h4{
+  font-size: 18px;
+  margin: 0;
+}
+h5{
+  font-size: 16px;
+  font-weight: 500;
+  margin: 0;
+}

@@ -1,0 +1,35 @@
+.form_cont{
+    background-color:black;
+    padding: 4px 4px 4px 8px;
+    border-radius: 0.75rem;
+    display: flex;
+    width: 320px;
+    height: 52px;
+    box-sizing: border-box;
+    align-items: center;
+    gap:8px;
+    justify-content: space-between;
+}
+.form_btn{
+    width: 100px;
+    min-width: 100px;
+    background-color:#FDEF78;
+    border-radius: 0.75rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+.form_input{
+    width: 160px;
+    background-color:black;
+    border: none;
+    
+}
+.form_input[type='tel']{
+    color: rgba(255,255,255,1);
+    font-size: 16px;
+}
+.form_input:focus{
+    outline: none;
+}
