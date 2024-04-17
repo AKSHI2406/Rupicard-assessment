@@ -40,3 +40,10 @@ h5{
   font-weight: 500;
   margin: 0;
 }
+@media screen and (max-width:760px) {
+  h1{
+    font-size: 30px;
+    line-height: 30px;
+  }
+  
+}
