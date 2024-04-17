@@ -87,4 +87,13 @@
     .top_btn_mob{
         display: block;
     }
+    .top_center{
+        flex-direction: column-reverse;
+    }
+    .top_right_img{
+        width: 300px;
+        height: 300px;
+        align-self: flex-start;
+        padding-top:40px ;
+    }
 }
